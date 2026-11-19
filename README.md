@@ -1,0 +1,1 @@
+A Python-based desktop automation project using PyAutoGUI to interact with Facebook Messenger Web, automate text input, and test mention autocomplete functionality through mouse and keyboard controls.
